@@ -26,7 +26,7 @@
 ---
 
 ## 🔗 Hubungi Saya
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/USERNAME_ANDA)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/eu-yan-wei-361994442)
 
 <!--
 **EuYanWei/EuYanWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
