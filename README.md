@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning **GitHub & Software Development**.
 - 🌱 I’m currently improving my skills in **HTML, CSS, and JavaScript / Python**.
 - 💡 I’m looking to collaborate on **open-source** projects.
-- 📫 How to reach me: **euyanwei@example.com**
+- 📫 How to reach me: **euyanwei@graduate.utm.my**
 
 ---
 
